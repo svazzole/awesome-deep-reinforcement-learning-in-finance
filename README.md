@@ -124,7 +124,7 @@ distributions of event sizes under a broad range of conditions in a large variet
 
 [System]
 
-- [zipline](https://github.com/quantopian/zipline): Zipline, a Pythonic Algorithmic Trading Library http://www.zipline.io/
+- [zipline](https://github.com/quantopian/zipline): Zipline, a Pythonic Algorithmic Trading Library 
 - [rqalpha](https://github.com/ricequant/rqalpha): A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities http://rqalpha.io
 - [backtrader](https://github.com/backtrader/backtrader): Python Backtesting library for trading strategies https://www.backtrader.com
 - [kungfu](https://github.com/taurusai/kungfu): Kungfu Master Trading System
